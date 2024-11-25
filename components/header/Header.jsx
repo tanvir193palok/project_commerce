@@ -33,7 +33,7 @@ const Header = () => {
           Deals
         </Link>
         <Link href="/" className="text-sm md:text-base hover:text-primary">
-          What's New
+          What&apos;s New
         </Link>
       </div>
 
